@@ -1,0 +1,14 @@
+---
+title: "Practice_Rmd"
+output: html_document
+date: "2025-06-05"
+---
+
+```{r setup, include=FALSE}
+# I am practicing merging progress on branches
+
+```
+
+```{r}
+#writing random sentences
+```
